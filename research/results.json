@@ -1,0 +1,10 @@
+{
+  "INT4": {
+    "perplexity": null,
+    "latency": 1.2572567699942738
+  },
+  "FP4": {
+    "perplexity": null,
+    "latency": 1.1763700799841899
+  }
+}

@@ -1,0 +1,6 @@
+pytest>=7.0.0
+torch>=1.13.0
+transformers>=4.27.0
+datasets>=2.6.0
+bitsandbytes>=0.39.0
+accelerate>=0.18.0 
