@@ -3,7 +3,7 @@
 This project compares **FP4 (nf4)** and **INT4** quantization methods for transformer models.
 
 ## Recommended Quantization
-We recommend using **FP4 (nf4)** quantization as the default choice for inference due to its strong balance between accuracy retention and performance improvements.
+I recommend using **FP4 (nf4)** quantization as the default choice for inference due to its strong balance between accuracy retention and performance improvements.
 
 ## Author
 **Rohith Garapati** (<https://github.com/INFINITYone22>)
